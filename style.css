@@ -1,0 +1,27 @@
+img {
+    width: 300px;
+    height: 300px;
+    display: block;
+    margin: 0 auto;
+}
+body {
+    font-family: "Montserrat",sans-serif;
+    font-size: 16px;
+    border: 6px solid black;
+    padding: 0 20px 20px 20px;
+    margin: 0 auto;
+    width: 600px;
+    background-color:bisque;
+    
+}
+h1 {
+    font-size: 60px;
+    text-align: center;
+    margin: 0;
+    padding:20px 0;
+}
+p,
+li {
+    line-height: 2;
+    letter-spacing: 1px;
+}
